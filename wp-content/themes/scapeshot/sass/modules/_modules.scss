@@ -1,0 +1,86 @@
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'accessibility';
+
+/*--------------------------------------------------------------
+## alignments 4.2
+--------------------------------------------------------------*/
+@import 'alignments';
+
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'breadcrumbs';
+
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'captions';
+
+/*--------------------------------------------------------------
+## clearings 4.3
+--------------------------------------------------------------*/
+@import 'clearings';
+
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'content';
+
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'scroll-up';
+
+/*--------------------------------------------------------------
+## alignments 4.1
+--------------------------------------------------------------*/
+@import 'sidebar';
+
+/**
+ * 14.0 - Modules
+ */
+
+.section {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+.section,
+body:not(.home) .site-content {
+    padding: 42px 0 7px 0;
+}
+
+.home .site-content {
+    padding: 42px 0 0 0;
+}
+
+.header-media + .no-section-heading {
+    padding-top: 84px;
+}
+
+.section.no-section-heading {
+	padding-top: 42px;
+}
+
+#promotion-section {
+    padding: 84px 0;
+}
+
+.section-heading-wrapper,
+#footer-instagram .widget-title {
+	display: block;
+	max-width: 920px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+
+#testimonial-content-section .owl-slideshow {
+	overflow: hidden;
+}

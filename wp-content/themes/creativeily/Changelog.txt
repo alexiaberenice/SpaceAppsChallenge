@@ -1,0 +1,34 @@
+--- Changelog ---
+- Forked Draco by extendyourweb published on WordPress.org & published under GPLv2: https://wordpress.org/themes/draco/ -- https://www.webpsilon.com/en/wpthemes //  Webpsilon Soluciones Integrales en Internet S.L. - Thank you so much for creating this awesome theme we have used as foundation for our own theme, especially the header is an amazing idea, we have respectfully given the theme a full redesign but kept most of the header design and functionality.
+- Redesigned header & logo 
+- The header is now more responsive, it works with larger titles on smaller screens
+- Redesigned navigation
+- Redesigned 404
+- Redesigned search results
+- Widgets redesign
+- Redesigned general layout
+- Sidebar redesign
+- Deleted old footer widget, made new grid footer widgets
+- Redesigned blog feed
+- Removed comments & tags from blog feed
+- Edited image sizes 
+- Removed content creation (multi header img upload)
+- Redesigned typography
+- Rearranged customizer menus 
+- Added new customizer features
+- Added feature to change header text color
+- Added custom-header features
+- Added new features to the customizer
+- Added a new screenshot
+- Added featured images to the blog feed
+- Switched font to Lato 
+- Redesigned posts
+- Replaced all images
+- Made it easier to delete link to author website
+- Redesigned comments
+- Redesigned archive
+- Redesigned buttons & forms
+- Added color customization to the customizer
+- Added live preview of customizer changes
+- Added "Hide title & tagline" feature
+- Redesigned search no results

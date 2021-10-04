@@ -1,0 +1,263 @@
+# WordPress Creativeily
+# Copyright (C) 2018-2019 ThemeEverest
+# This file is distributed under the GNU General Public License v2 or later.
+#, creativeily
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Creativeily Creativeily v1.0.0\n"
+"POT-Creation-Date: "
+"2017-11-30 10:50+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:25
+msgid ""
+"It looks like nothing "
+"was found at this "
+"location. Maybe try a "
+"search?"
+msgstr ""
+
+#: archive.php:36
+#: index.php:41
+#: search.php:36
+#: single.php:31
+msgid "A"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid ""
+"One Reply to &ldquo;"
+"%s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid ""
+"%1$s Reply to &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s Replies to &ldquo;"
+"%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+
+#: comments.php:66
+msgid "Previous"
+msgstr ""
+
+#: comments.php:67
+msgid "Next"
+msgstr ""
+
+#: comments.php:75
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: functions.php:57
+#: template-parts/navigation/navigation-top.php:20
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid ""
+"Add widgets here to "
+"appear in your sidebar "
+"on blog posts and "
+"archive pages."
+msgstr ""
+
+#: functions.php:123
+msgid "Footer top"
+msgstr ""
+
+#: functions.php:125
+#: functions.php:135
+msgid ""
+"Add widgets here to "
+"appear in your footer."
+msgstr ""
+
+#: functions.php:133
+msgid "Footer bottom"
+msgstr ""
+
+#: functions.php:167
+msgid "Header"
+msgstr ""
+
+#: functions.php:168
+msgid "Header options"
+msgstr ""
+
+#: functions.php:180
+msgid "Home Header Image"
+msgstr ""
+
+#: functions.php:192
+msgid ""
+"Categories Header Image"
+msgstr ""
+
+#: functions.php:204
+msgid "Post Header Image"
+msgstr ""
+
+#: functions.php:216
+msgid "Page Header Image"
+msgstr ""
+
+#: functions.php:228
+msgid "Search Header Image"
+msgstr ""
+
+#: functions.php:236
+msgid "Design"
+msgstr ""
+
+#: functions.php:237
+msgid "Design options"
+msgstr ""
+
+#: functions.php:250
+msgid "Font family"
+msgstr ""
+
+#: functions.php:262
+msgid "Header text color"
+msgstr ""
+
+#: functions.php:274
+msgid ""
+"Header background color"
+msgstr ""
+
+#: functions.php:286
+msgid "Text color"
+msgstr ""
+
+#: functions.php:298
+msgid "Link text color"
+msgstr ""
+
+#: functions.php:310
+msgid ""
+"Link text hover color"
+msgstr ""
+
+#: functions.php:322
+msgid ""
+"Content Background Color"
+msgstr ""
+
+#: functions.php:334
+msgid ""
+"Footer Background Color"
+msgstr ""
+
+#: search.php:48
+msgid ""
+"Sorry, but nothing "
+"matched your search "
+"terms. Please try again "
+"with some different "
+"keywords."
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+msgid "All rights reserved"
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+msgid "Creativeily theme by"
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: template-parts/header/header-image.php:44
+msgid "Search Results for:"
+msgstr ""
+
+#: template-parts/header/header-image.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/header/header-image.php:49
+msgid ""
+"Oops! That page "
+"can&rsquo;t be found"
+msgstr ""
+
+#: template-parts/post/content.php:89
+#, php-format
+msgid ""
+"Continue reading<span "
+"class=\"screen-reader-"
+"text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post/content.php:95
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content.php:104
+msgid "Read more"
+msgstr ""
