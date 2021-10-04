@@ -20,13 +20,10 @@ Su desafío es desarrollar un método para mejorar la conciencia pública y la c
 ##  Contenido
 
 <br><br>
-<hr>
 
-<div align="center">
-	<h2>Modulo 1</h2>
+
+	https://images.app.goo.gl/X1wUsqAeD3BmwcWJA<h2>Modulo 1</h2>
 </div>
-
-
 
 
 
@@ -39,17 +36,14 @@ https://www.nasa.gov/content/goddard/parker-solar-probe
 
 
 
-##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
+##  Tips extra
+
 Links de Motivación ¿Como ser un astronauta?
 https://www.lasexta.com/programas/mas-vale-tarde/noticias/estos-son-requisitos-pasos-que-debes-cumplir-ser-astronauta-esa_2021062460d4d1b2d3d56c0001eefa54.html
 
 
-
 # Mapa vial
-Se estará actualizando constantemente mientras se avanza la inestogacion de la smisones espaciales. 
-
-
-
+Se estará actualizando constantemente mientras se avanza la investigación de las misiones espaciales. 
 
 
 
@@ -58,15 +52,13 @@ Tener información lo más rápido posible lo es todo. Así es como las áreas d
 La red de seguridad lee todo tipo de alertas de peligro de los servicios de emergencia nacionales y las API meteorológicas y las incluye en el sistema.
 
 
-
-
 La última pero no menos importante forma de que la información ingrese al sistema es 
 El resultado de esto es un mapa en tiempo real donde los servicios de emergencia y cualquier persona pueden ver a todos en peligro y cada área de peligro de un vistazo, con información sobre cada persona en peligro para que realmente podamos detectar a las personas vulnerables.
 
-Las tecnologías detrás son: 
+Las tecnologías detrás son: Azure Bot Service con Cognitive Services, App Service, Javascript. 
 
 
-### 
+
 
 ### Contribuyendo
 Se aceptan contribuidores.
