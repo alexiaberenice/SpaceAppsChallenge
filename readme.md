@@ -1,22 +1,18 @@
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/). 
-
-# SpaceAppsChallenge🚀🚀🚀🚀
 Proyecto para el hackthon de NASA e Innovaccion Virtual de NASATOPS
- 
-https://youtu.be/dEZUfyogQAA
-
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=dEZUfyogQAA)
-
-  ![image](https://user-images.githubusercontent.com/75337567/135796484-1e062c67-fb52-4f3f-831d-776863b32919.png)
-
   
 ### Descripción🤓
-Con la finalidad obtener un mejor entendimiento sobre la importancia de mejorar y desarrollar nuestra 
+¿Alguna vez han volteado a ver el cielo y se han preguntado por la inmensidad del universo? Nuestro objetivo es despertar la curiosidad sobre el espacio a todo público, que puedan conocer e interactuar aprendiendo a su propio ritmo sobre la exploración espacial de la NASA con ayuda de un bot que les facilite el aprendizaje y este para ellos en todo momento.
 
-de los conceptos básicos que abarcan a la plataforma Azure, se crea este diccionario con conceptos sencillos, prácticos y entendibles.
-Hágale saber a la gente lo que su proyecto puede hacer específicamente. Proporcione contexto y agregue un enlace a cualquier referencia con la que los visitantes no estén familiarizados. También se puede agregar aquí una lista de características o una subsección de fondo . Si existen alternativas para su proyecto, este es un buen lugar para enumerar los factores diferenciadores.
-Su desafío es desarrollar un método para mejorar la conciencia pública y la comprensión de estas naves espaciales y cómo los datos valiosos que proporcionan afectan la forma en que vivimos, trabajamos y jugamos.
-	 
+El prototipo es una plataforma web interactiva que permita explorar el espacio de manera virtual y se pueda usar desde cualquier dispositivo, sea móvil, escritorio o tableta con solo tener conexión a internet. Se utilizaron tecnologías de azure como App Service, lenguajes de programación y azure bot service en conjunto de QnMaker, para la creación de "Solar", el bot que interactuará contigo durante toda la travesía en la plataforma, resolviendo tus dudas, dando datos curiosos y proporcionándote enlaces útiles para nunca dejar de aprender.
+
+### Tecnologías azure 🔹
+- App Service
+-Cognitive Services
+- Azure Bot Service
+- Azure QnMaker
+- Javascript, PHP, CSS, HTML
+
 ### Diccionario basico. 🤙
 	 
 - Parker Solar Probe: 
@@ -25,48 +21,25 @@ Su desafío es desarrollar un método para mejorar la conciencia pública y la c
 ##  Contenido
 
 <br><br>
-
-
-	https://images.app.goo.gl/X1wUsqAeD3BmwcWJA<h2>Modulo 1</h2>
+	<h2>Modulo 1</h2>
 </div>
 
 
-
-
-
 # Links de Apoyo
-Parker Solar Probe 
+-Parker Solar Probe 
 https://www.nasa.gov/content/goddard/parker-solar-probe
-
-
-
-
-##  Tips extra
-
-Links de Motivación ¿Como ser un astronauta?
-https://www.lasexta.com/programas/mas-vale-tarde/noticias/estos-son-requisitos-pasos-que-debes-cumplir-ser-astronauta-esa_2021062460d4d1b2d3d56c0001eefa54.html
-
-
-# Mapa vial
-Se estará actualizando constantemente mientras se avanza la investigación de las misiones espaciales. 
-
-
-
-Tener información lo más rápido posible lo es todo. Así es como las áreas de peligro ingresan al sistema:
-
-La red de seguridad lee todo tipo de alertas de peligro de los servicios de emergencia nacionales y las API meteorológicas y las incluye en el sistema.
-
-
-La última pero no menos importante forma de que la información ingrese al sistema es 
-El resultado de esto es un mapa en tiempo real donde los servicios de emergencia y cualquier persona pueden ver a todos en peligro y cada área de peligro de un vistazo, con información sobre cada persona en peligro para que realmente podamos detectar a las personas vulnerables.
-
-Las tecnologías detrás son: Azure Bot Service con Cognitive Services, App Service, Javascript. 
-
-
-
-
-### Contribuyendo
-Se aceptan contribuidores.
+-
+https://ccmc.gsfc.nasa.gov/iswa/
+-
+https://ccmc.gsfc.nasa.gov/
+-
+https://svs.gsfc.nasa.gov/search/?search=parker+solar+probe&sort_by=relevance
+-
+https://science.nasa.gov/heliophysics
+-
+https://sppgway.jhuapl.edu/
+-
+http://solarprobe.jhuapl.edu/
 
 # Autores y reconocimiento 
 
@@ -75,11 +48,10 @@ Se aceptan contribuidores.
 @TereAlvarez 
 @Diego  ❤️
 
-###	SpaceAppsChallenge
-
-
+# Check List ✅
 - [ ] OUR APP IN THE WEB: 
+https://nasasun21.azurewebsites.net
 - [ ] OUR PROFILE IN NASA SPACE APPS: 
-- [ ] OUR PRESENTATION: BORRAR https://github.com/javieraviles/spaceappschallenge/blob/master/Documentation/project_slide.pptx​
-
-
+https://2021.spaceappschallenge.org/challenges/statements/unlocking-the-secrets-of-the-sun/teams/nasatops/project
+- [ ] OUR VIDEO: 
+https://vm.tiktok.com/ZMRKWJNWp/ 
