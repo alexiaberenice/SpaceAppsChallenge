@@ -42,6 +42,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 
 
 ![image](https://user-images.githubusercontent.com/83734658/135965022-13136b32-4863-47cc-9a0f-14884e6436fe.png)
+Esta APP es muy interactiva.
 
 ![image](https://user-images.githubusercontent.com/83734658/135965806-cd80e3e5-c300-42d3-8293-cea7fc7ae71d.png)
 
