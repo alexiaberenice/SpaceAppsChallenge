@@ -1,4 +1,7 @@
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/). 
+
+
+#SPACE APP CHALLENGE 🚀🚀🚀🚀🚀
 Proyecto para el hackthon de NASA e Innovaccion Virtual de NASATOPS
   
 ### Descripción🤓
@@ -8,7 +11,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 
 ### Tecnologías azure 🔹
 - App Service
--Cognitive Services
+- Cognitive Services
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
@@ -28,12 +31,10 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 # Links de Apoyo
 -Parker Solar Probe 
 https://www.nasa.gov/content/goddard/parker-solar-probe
--
+-ISWA NASA
 https://ccmc.gsfc.nasa.gov/iswa/
 -
 https://ccmc.gsfc.nasa.gov/
--
-https://svs.gsfc.nasa.gov/search/?search=parker+solar+probe&sort_by=relevance
 -
 https://science.nasa.gov/heliophysics
 -
