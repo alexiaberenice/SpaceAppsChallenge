@@ -5,6 +5,7 @@ Proyecto para el hackthon de NASA e Innovaccion Virtual de NASATOPS
  
 https://youtu.be/dEZUfyogQAA
 
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=dEZUfyogQAA)
 
   ![image](https://user-images.githubusercontent.com/75337567/135796484-1e062c67-fb52-4f3f-831d-776863b32919.png)
 
