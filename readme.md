@@ -17,7 +17,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Javascript, PHP, CSS, HTML
 	 
 ##  Contenido
-AQUI VAN IMAGENES
+
 
 ![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 
@@ -69,8 +69,3 @@ https://2021.spaceappschallenge.org/challenges/statements/unlocking-the-secrets-
 - [ ] OUR VIDEO: 
 https://vm.tiktok.com/ZMRKWJNWp/ 
 
-
-### Diccionario basico. 🤙
-	 
-- Parker Solar Probe: 
-- Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
