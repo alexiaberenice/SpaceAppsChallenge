@@ -15,6 +15,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
+blob:https://web.whatsapp.com/29e38178-49e9-4c66-a6b8-9107cd580d64
 	 
 ##  Contenido
 AQUI VAN IMAGENES
