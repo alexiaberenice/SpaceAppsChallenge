@@ -15,12 +15,36 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
-blob:https://web.whatsapp.com/29e38178-49e9-4c66-a6b8-9107cd580d64
 	 
 ##  Contenido
 AQUI VAN IMAGENES
 
-![image](https://user-images.githubusercontent.com/83734658/135963655-418e5cc1-62e9-4092-b3dc-78a0b11dfd52.png)
+![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
+
+
+![image](https://user-images.githubusercontent.com/83734658/135964413-0a7f04d5-73ad-4b4a-8e31-d0a38b3bff7e.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964440-12f43382-8988-49f3-96a1-20610efe6cc1.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964452-830b6d25-cc35-491f-955a-55ce2eff35d0.png)
+
+
+![image](https://user-images.githubusercontent.com/83734658/135964482-18bf6e8e-f938-42bb-af4c-6e8c975b30e6.png)
+
+
+![image](https://user-images.githubusercontent.com/83734658/135964522-b6cdcb79-1e1b-491f-b238-589e2a622483.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964536-a0805cea-4729-416b-b1d7-059ecf4d1d0f.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964546-bce1dce1-2643-4298-84ea-72ee6fcee188.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964579-58e4d36f-b5eb-494b-87e0-20a4ff1b97c5.png)
+
+![image](https://user-images.githubusercontent.com/83734658/135964647-63ccbda2-10f2-4505-9464-c23bbc8c3371.png)
+
+
 
 
 
@@ -55,8 +79,6 @@ https://vm.tiktok.com/ZMRKWJNWp/
 
 
 ### Diccionario basico. 🤙
-	 [![Alt text CHATBOT ](https://youtu.be/dEZUfyogQAA)
-
-Fuente: https://www.iteramos.com/pregunta/16559/como-incrustar-un-video-en-github-readmemd
+	 
 - Parker Solar Probe: 
 - Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
