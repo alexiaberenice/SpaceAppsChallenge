@@ -15,23 +15,33 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
-![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 	 
 ##  Contenido
+AQUI VAN IMAGENES
 
-NASATOPS IN THE SUN
-Space Apps Challenge: Explorando El Universo
+![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
+
 ![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
 
-Esta es nuestro museo interactivo
+
 
 ![image](https://user-images.githubusercontent.com/83734658/135964482-18bf6e8e-f938-42bb-af4c-6e8c975b30e6.png)
 
+
 ![image](https://user-images.githubusercontent.com/83734658/135964522-b6cdcb79-1e1b-491f-b238-589e2a622483.png)
-SOLA es nuestro ChatBot 
+
+
+
 ![image](https://user-images.githubusercontent.com/83734658/135964579-58e4d36f-b5eb-494b-87e0-20a4ff1b97c5.png)
-Te acompañara a esta travesia 
+
 ![image](https://user-images.githubusercontent.com/83734658/135964647-63ccbda2-10f2-4505-9464-c23bbc8c3371.png)
+
+
+![image](https://user-images.githubusercontent.com/83734658/135964862-134adb6c-0d70-4ea7-a573-230ba6c3846a.png)
+![image](https://user-images.githubusercontent.com/83734658/135964941-9359e46b-7196-42e8-a329-c2f6ae130cc4.png)
+![image](https://user-images.githubusercontent.com/83734658/135964973-faa75b4e-1c4f-487d-bf43-16ca9c003df6.png)
+![image](https://user-images.githubusercontent.com/83734658/135965022-13136b32-4863-47cc-9a0f-14884e6436fe.png)
+
 
 
 
@@ -66,3 +76,8 @@ https://2021.spaceappschallenge.org/challenges/statements/unlocking-the-secrets-
 - [ ] OUR VIDEO: 
 https://vm.tiktok.com/ZMRKWJNWp/ 
 
+
+### Diccionario basico. 🤙
+	 
+- Parker Solar Probe: 
+- Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
