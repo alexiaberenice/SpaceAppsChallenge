@@ -14,12 +14,13 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Cognitive Services
 - Azure Bot Service
 - Azure QnMaker
-- Javascript, PHP, CSS, HTML
+- Javascript, PHP, CSS, HTML.
+
 ![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 	 
 ##  NASATOPS IN THE SUN
 
-
+¡BIENVENIDOS AL VIAJE ESPACIAL!
 
 ![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
 
