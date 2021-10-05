@@ -17,7 +17,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Javascript, PHP, CSS, HTML
 ![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 	 
-##  Contenido
+##  NASATOPS IN THE SUN
 
 
 
@@ -45,12 +45,16 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 
 ![image](https://user-images.githubusercontent.com/83734658/135965806-cd80e3e5-c300-42d3-8293-cea7fc7ae71d.png)
 
+VIDEO CHATBOT SOLA ACOMPAÑANTE DE MISION
+https://user-images.githubusercontent.com/83734658/135966274-4c9baf83-e855-4096-ae76-847821e6878e.mov
+ 
+
+VIDEO HACKADEMY 
 
 https://user-images.githubusercontent.com/83734658/135965862-53e4ef4c-e3ce-478e-9471-5047b75ec82c.mp4
 
 
 
-https://user-images.githubusercontent.com/83734658/135966274-4c9baf83-e855-4096-ae76-847821e6878e.mov
 
 
 
@@ -83,5 +87,4 @@ https://2021.spaceappschallenge.org/challenges/statements/unlocking-the-secrets-
 - [ ] OUR VIDEO TIKTOK INNOVACCION VIRTUAL: 
 https://vm.tiktok.com/ZMRKWJNWp/ 
 - [ ] OUR VIDEO PARA HACKADEMY: 
-https://user-images.githubusercontent.com/83734658/135966274-4c9baf83-e855-4096-ae76-847821e6878e.mov
 
