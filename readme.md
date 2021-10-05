@@ -15,25 +15,22 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
+![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 	 
 ##  Contenido
 
-
-![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
-
+NASATOPS IN THE SUN
+Space Apps Challenge: Explorando El Universo
 ![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
 
 
 
 ![image](https://user-images.githubusercontent.com/83734658/135964482-18bf6e8e-f938-42bb-af4c-6e8c975b30e6.png)
 
-
 ![image](https://user-images.githubusercontent.com/83734658/135964522-b6cdcb79-1e1b-491f-b238-589e2a622483.png)
-
-
-
+SOLA es nuestro ChatBot 
 ![image](https://user-images.githubusercontent.com/83734658/135964579-58e4d36f-b5eb-494b-87e0-20a4ff1b97c5.png)
-
+Te acompañara a esta travesia 
 ![image](https://user-images.githubusercontent.com/83734658/135964647-63ccbda2-10f2-4505-9464-c23bbc8c3371.png)
 
 
