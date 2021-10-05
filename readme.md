@@ -57,6 +57,10 @@ VIDEO HACKADEMY
 https://user-images.githubusercontent.com/83734658/135965862-53e4ef4c-e3ce-478e-9471-5047b75ec82c.mp4
 
 
+VIDEO INNOVACCIÓN
+
+https://user-images.githubusercontent.com/83734658/135967264-f4413655-3abe-448e-b32b-924c2c20997f.mp4
+
 
 
 
@@ -79,8 +83,8 @@ http://solarprobe.jhuapl.edu/
 
 - @alexiaberenice ❤️
 - @Jacqueline-cis ❤️  
-- @TereAlvarez  
-- @DiegoMoreno33  
+- @TereAlvarez    ❤️ 
+- @DiegoMoreno33  ❤️ 
 
 # Check List ✅
 - [ ] OUR APP IN THE WEB: 
