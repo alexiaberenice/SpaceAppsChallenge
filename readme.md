@@ -39,11 +39,18 @@ AQUI VAN IMAGENES
 
 ![image](https://user-images.githubusercontent.com/83734658/135964862-134adb6c-0d70-4ea7-a573-230ba6c3846a.png)
 ![image](https://user-images.githubusercontent.com/83734658/135964941-9359e46b-7196-42e8-a329-c2f6ae130cc4.png)
-![image](https://user-images.githubusercontent.com/83734658/135964973-faa75b4e-1c4f-487d-bf43-16ca9c003df6.png)
+
+
 ![image](https://user-images.githubusercontent.com/83734658/135965022-13136b32-4863-47cc-9a0f-14884e6436fe.png)
 
+![image](https://user-images.githubusercontent.com/83734658/135965806-cd80e3e5-c300-42d3-8293-cea7fc7ae71d.png)
 
 
+![Tecnologías usadas](https://user-images.githubusercontent.com/83734658/135965843-08ee474e-039a-4755-8241-10cf96e239a1.jpg)
+
+
+
+https://user-images.githubusercontent.com/83734658/135965862-53e4ef4c-e3ce-478e-9471-5047b75ec82c.mp4
 
 
 
