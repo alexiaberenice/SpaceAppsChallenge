@@ -23,7 +23,7 @@ NASATOPS IN THE SUN
 Space Apps Challenge: Explorando El Universo
 ![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
 
-
+Esta es nuestro museo interactivo
 
 ![image](https://user-images.githubusercontent.com/83734658/135964482-18bf6e8e-f938-42bb-af4c-6e8c975b30e6.png)
 
