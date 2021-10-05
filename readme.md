@@ -15,11 +15,11 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 - Azure Bot Service
 - Azure QnMaker
 - Javascript, PHP, CSS, HTML
+![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
 	 
 ##  Contenido
-AQUI VAN IMAGENES
 
-![image](https://user-images.githubusercontent.com/83734658/135963988-931dfb8e-3354-4fc3-bcf3-245c933da685.png)
+
 
 ![image](https://user-images.githubusercontent.com/83734658/135964380-1222d6de-5092-49b2-9b58-bd87abe7dfe5.png)
 
@@ -70,10 +70,10 @@ http://solarprobe.jhuapl.edu/
 
 # Autores y reconocimiento 
 
-@alexiaberenice ❤️
-@Jacqueline-cis ❤️  
-@TereAlvarez  
-@DiegoMoreno33  
+- @alexiaberenice ❤️
+- @Jacqueline-cis ❤️  
+- @TereAlvarez  
+- @DiegoMoreno33  
 
 # Check List ✅
 - [ ] OUR APP IN THE WEB: 
@@ -82,9 +82,3 @@ https://nasasun21.azurewebsites.net
 https://2021.spaceappschallenge.org/challenges/statements/unlocking-the-secrets-of-the-sun/teams/nasatops/project
 - [ ] OUR VIDEO: 
 https://vm.tiktok.com/ZMRKWJNWp/ 
-
-
-### Diccionario basico. 🤙
-	 
-- Parker Solar Probe: 
-- Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
