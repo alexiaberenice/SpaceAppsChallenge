@@ -46,6 +46,7 @@ El prototipo es una plataforma web interactiva que permita explorar el espacio d
 ![image](https://user-images.githubusercontent.com/83734658/135965806-cd80e3e5-c300-42d3-8293-cea7fc7ae71d.png)
 
 VIDEO CHATBOT SOLA ACOMPAÑANTE DE MISION
+
 https://user-images.githubusercontent.com/83734658/135966274-4c9baf83-e855-4096-ae76-847821e6878e.mov
  
 
