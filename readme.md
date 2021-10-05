@@ -22,17 +22,17 @@ AQUI VAN IMAGENES
 
 
 # Links de Apoyo
--Parker Solar Probe 
+- Parker Solar Probe 
 https://www.nasa.gov/content/goddard/parker-solar-probe
--ISWA NASA
+- ISWA NASA
 https://ccmc.gsfc.nasa.gov/iswa/
--CCMC NASA
+- CCMC NASA
 https://ccmc.gsfc.nasa.gov/
--SCIENCE NASA
+- SCIENCE NASA
 https://science.nasa.gov/heliophysics
--SPPPWAY 
+- SPPPWAY 
 https://sppgway.jhuapl.edu/
--SOLAR PROBE
+- SOLAR PROBE
 http://solarprobe.jhuapl.edu/
 
 # Autores y reconocimiento 
