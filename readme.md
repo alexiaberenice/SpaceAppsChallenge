@@ -55,6 +55,8 @@ https://vm.tiktok.com/ZMRKWJNWp/
 
 
 ### Diccionario basico. 🤙
-	 
+	 [![Alt text CHATBOT ](https://youtu.be/dEZUfyogQAA)
+
+Fuente: https://www.iteramos.com/pregunta/16559/como-incrustar-un-video-en-github-readmemd
 - Parker Solar Probe: 
 - Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
